@@ -1,0 +1,2 @@
+[VULNERABLE] [Manual/Warning Page Redirect]: https://www.airbnb.com/interstitial?r=https://bing.com
+[VULNERABLE] [Manual/Warning Page Redirect]: https://www.airbnb.com/interstitial?r=https%3A%2F%2Fbing.com
